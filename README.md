@@ -1,4 +1,4 @@
-### [Pitch Day Companion App](https://github.com/joshuabseitz/PitchDay)
+### [Pitch Day Companion App](https://github.com/joshuabseitz/PitchDay-iOS)
 <i>iOS, Swift, UIKit, Firebase</i> • The goal of this project was to create a mobile application that judges could use to score student pitches, while simultaneously listening to them on their computer. The app is being built for iOS, using Swift, and utlizes Firebase for authentication and data storage.
 The goal of this project is to create a mobile application that judges could use to score student pitches, while simultaneously viewing the pitch on their compThe app is being built for iOS, using Swift, and utlizes Firebase for authentication and data storage.
 
