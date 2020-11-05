@@ -3,7 +3,7 @@
 The goal of this project is to create a mobile application that judges could use to score student pitches, while simultaneously viewing the pitch on their compThe app is being built for iOS, using Swift, and utlizes Firebase for authentication and data storage.
 
 ### [Tandem Trivia](https://github.com/joshuabseitz/Trivia-iOS)
-<i>iOS, Swift, CoreData, UIKit</i> • This is an iOS trivia game that takes data from a JSON file, parses it into questions, incorrect choices, and a correct choice then presents each question to the user individually, adding points when the user guesses correctly and revealing the correct answer when the user guesses incorrectly. The app uses CoreData to persist highscores.
+<i>iOS, Swift, CoreData, UIKit, XCTest</i> • This is an iOS trivia game that takes data from a JSON file, parses it into questions, incorrect choices, and a correct choice then presents each question to the user individually, adding points when the user guesses correctly and revealing the correct answer when the user guesses incorrectly. The app uses CoreData to persist highscores.
 
 ### [Tasks](https://github.com/joshuabseitz/Tasks-iOS)
 <i>iOS, Swift, CoreData, UIKit</i> • This app is one of the first projects I completed to learn about Swift – it is a todo list app that stores tasks, uses CoreData to persist the task, and has CRUD features for each task. The project initially used User Defaults to store data, before I implemented CoreData.
